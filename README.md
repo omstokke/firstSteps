@@ -1,7 +1,7 @@
 # firstSteps
 My first steps into Python3
 
-The starting date for my journey into Python3 was 27.03.2021, start of Easter 2021. Mind you, it had to compete with Zelda: BotW on Switch and a translation of Arabic hiakus into Norwegian (see "Hello-World").
+The starting date for my journey into Python3 was 27.03.2021, start of Easter 2021. Mind you, it had to compete with Zelda: BotW on Switch and a translation of Arabic haikus into Norwegian (see "Hello-World").
 
 First steps: Youtube and Google some tutorials to watch, and learn.
 
