@@ -1,0 +1,10 @@
+Always run a new project in avirtual environment with packages installed for that environment
+
+Follow these instructions:
+https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
+For commands: use
+py -m and then commands
+
+Changing direcotry:
+cd and then the path you want to go to
